@@ -12,3 +12,9 @@ Public, hash-only timestamps for a sealed, prospective study. The study asks whe
 **How to verify later.** When the study is scored, the hashed documents and salts are released. Anyone can then recompute the hashes (`shasum -a 256 <file>`) and compare them with the hashes here. The commit times on this public repository show that each hash existed no later than that time, which is before the outcomes it is scored against were known.
 
 An alarm in this study means "statistically unusual", never wrongdoing. No address is ever labelled an insider.
+
+**Independent timestamps.**
+- Each `*.txt` hash file has a `*.txt.ots` OpenTimestamps proof beside it, anchoring its SHA-256 in the Bitcoin blockchain.
+- A proof is "pending" until a Bitcoin block confirms it, usually within hours. It is then upgraded and re-committed. Verify with `ots verify <file>.ots`.
+- The repository is also submitted to Software Heritage for independent archival.
+- Neither check requires trusting GitHub or the author.
