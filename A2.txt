@@ -1,0 +1,3 @@
+amendment A2 to the F0 freeze (UTC date: 2026-11-18)
+sha256 of AMENDMENTS.md after A2:
+489a083d108165b5e38ef23ccb347f4d48e3d2a494691f36c4995a563b1cd0ed  AMENDMENTS.md
