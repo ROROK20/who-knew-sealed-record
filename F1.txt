@@ -1,0 +1,3 @@
+stage-2 freeze F1 (UTC date: 2026-11-18)
+sha256 of F1_STAMP.json (hashes of alarm-deciding code, calibration, model, thresholds, sample size, salts, issue format):
+d2b0cede6d010a06b934c9a888ff0478e1b42e3e261e330b4bacf02051b7f5d8  F1_STAMP.json
