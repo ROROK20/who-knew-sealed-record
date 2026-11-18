@@ -1,0 +1,3 @@
+amendment A3 (UTC date: 2026-11-18)
+sha256 of AMENDMENTS.md after A3:
+7d13051938e3c2c7ca788a384e1a58db13b717e058ce63c6c2ed9a92cc8a4802  AMENDMENTS.md
