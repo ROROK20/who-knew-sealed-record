@@ -1,0 +1,5 @@
+stage-1 freeze F0 (UTC date: 2026-11-18)
+sha256 of each frozen document:
+62deea72afc7c8fdf94f7192cd78b396efcdabac577b3f775a0c73a3c80fe41d  PROTOCOL_v0.3.md
+6ec8f9c0f3de315ad4db5ce244a24c3e869027a64ed493229966642decf3e2a9  TPUB_CODING_MANUAL_v1.0.md
+0b482deb0c38531b612ccf1488a0c92cc45e059e31f719bebda8146102a95f94  eligibility_v0_3.py
