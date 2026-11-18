@@ -1,0 +1,3 @@
+amendment A4 (UTC date: 2026-11-18)
+sha256 of AMENDMENTS.md after A4:
+a744513d1653d4cddba8e61bc7b5e9f37a5c836bb9334473ff700c914bd46caa  AMENDMENTS.md
