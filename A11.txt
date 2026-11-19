@@ -1,0 +1,3 @@
+amendment A11 deviations record (UTC date: 2026-11-19)
+sha256 of AMENDMENTS.md after A11:
+0b2738a7a2deb932b18341b1ce3a95867b6991f781cd88b8732c601467dcc568  AMENDMENTS.md
