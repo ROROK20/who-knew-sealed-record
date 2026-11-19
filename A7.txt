@@ -1,0 +1,3 @@
+amendment A7 (UTC date: 2026-11-19)
+sha256 of AMENDMENTS.md after A7:
+54737b567ab44b313521b2d10d6120f10e11a4c8d9a3c3dabde7daefa1a1dfde  AMENDMENTS.md
