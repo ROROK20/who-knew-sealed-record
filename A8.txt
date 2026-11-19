@@ -1,0 +1,3 @@
+amendment A8 (UTC date: 2026-11-19)
+sha256 of AMENDMENTS.md after A8:
+ed8b67d878d92bb40fcd0ad2c5e98721e27320fd90e63d8688a0b26790c7b93c  AMENDMENTS.md
