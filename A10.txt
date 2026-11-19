@@ -1,0 +1,3 @@
+amendments A9-A10 (UTC date: 2026-11-19)
+sha256 of AMENDMENTS.md after A10:
+2231414e0e5f54b4e5ece3942102eb3df6b36120e68e38ee58f93ba1f8a62b9c  AMENDMENTS.md
