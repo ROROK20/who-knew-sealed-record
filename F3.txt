@@ -1,0 +1,3 @@
+stage-4 freeze F3: A12 identification upgrade (written UTC 2026-11-19, committed UTC 2026-11-20)
+sha256 of F3_STAMP.json:
+a065d9483e108c546a5e0d30b21640397049980a4e6e3be462d8b46a854e9edf  F3_STAMP.json
