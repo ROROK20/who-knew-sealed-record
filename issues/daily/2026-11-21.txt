@@ -1,0 +1,2 @@
+daily issue (A9 secondary arm), UTC day 2026-11-21, status MISSED
+not pushed by its deadline 2026-11-22T23:59:00Z (A10.2); never issued later (protocol §4); see Amendment A15.1
