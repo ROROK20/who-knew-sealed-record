@@ -1,0 +1,2 @@
+weekly issue, cut 2026-11-23 00:00 UTC, status ISSUED
+849a980d38022f154f7088a673f911eaa65140963e4a37cd786080d8aadf9f89  sealed list (sha256 of salt || list)
