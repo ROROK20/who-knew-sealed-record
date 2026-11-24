@@ -1,0 +1,3 @@
+amendment A19 adjudicator reads NA as a status (defect fix before first use) (UTC date: 2026-11-24)
+sha256 of AMENDMENTS.md after A19:
+e70dbbfe00f851d2e2512be54cf6a6a3f0ca505fa0c69aac021ae414c8e1cac8  AMENDMENTS.md
