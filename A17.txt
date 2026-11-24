@@ -1,0 +1,3 @@
+amendment A17 block sets ruled (test candidates and sample, control pool and clock, block interval, stopping count); before any control-pool unit is read or any test event is coded (UTC date: 2026-11-24)
+sha256 of AMENDMENTS.md after A17:
+7f2a20809ce5c2b6bf2dbd7c2bf937eefdb946bade9e5e02f63bfc0ae91d0dac  AMENDMENTS.md
