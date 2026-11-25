@@ -1,0 +1,3 @@
+freeze F6 (stage 7: B7-core benchmark baseline), committed 2026-11-25 at private commit 9fe2523
+sha256 of F6_STAMP.json:
+3a77665f62882cd1839181e9ada7dad525bce422a474d8080abc3e4ca5f3a14d  F6_STAMP.json

@@ -1,0 +1,3 @@
+amendment A21 B7-core written, calibrated on C and frozen (F6); before any sealed list is opened (UTC date: 2026-11-25)
+sha256 of AMENDMENTS.md after A21:
+bf4508632a9fe67c272da1430e74a332984e1ea97dbd1e084a62e6f7576645ad  AMENDMENTS.md
