@@ -1,0 +1,3 @@
+freeze F5 (stage 6: block inputs for the F4 scorer), committed 2026-11-25 at private commit 33635b4
+sha256 of F5_STAMP.json:
+f8cc4c9b955973a67bf6dcf37431b70b05dc886eea86fb37dbd87d4133e8bbee  F5_STAMP.json

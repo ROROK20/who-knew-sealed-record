@@ -1,0 +1,3 @@
+amendment A20 block assembler admitted and validated on C; every block input frozen (F5); B7 moves to F6; before any sealed list is opened (UTC date: 2026-11-25)
+sha256 of AMENDMENTS.md after A20:
+1641fd11760963d7928f1d946f914fc717e6222aaa51e144e9db9ff2e35b5703  AMENDMENTS.md
