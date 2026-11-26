@@ -1,0 +1,3 @@
+amendment A23 erratum to A22.2 (F6 preceded daily issue 2026-11-24) and B004 adjudication run-log location; record only, no rule change (UTC date: 2026-11-26)
+sha256 of AMENDMENTS.md after A23:
+5ed1b6d3a64180cc3683daaeb76f686737816c1b1433ecd7f85184da9275b652  AMENDMENTS.md
