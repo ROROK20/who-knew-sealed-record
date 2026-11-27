@@ -1,0 +1,2 @@
+daily issue (A9 secondary arm), UTC day 2026-11-26, status ISSUED
+2b004182ffc14fb4394d78ab56a5fa425da20b1414d011ec0af09b5687d479b2  sealed list (sha256 of salt || list)
